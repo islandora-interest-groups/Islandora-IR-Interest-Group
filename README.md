@@ -21,6 +21,7 @@ An interest group focused on the use of Islandora as an institutional repository
 
 ## Membership
 * Bryan Brown (Florida State University)
+* Devin Soper (Florida State University)
 * Emily Toner (Boston College)
 * Christina Harlow (University of Tennessee, Knoxville)
 * Brandon Wiegel (British Columbia Electronic Library Network)
