@@ -24,6 +24,8 @@ An interest group focused on the use of Islandora as an institutional repository
 * Devin Soper (Florida State University)
 * Emily Toner (Boston College)
 * Christina Harlow (University of Tennessee, Knoxville)
+* Mark Baggett (University of Tennessee, Knoxville)
+* Paul Cummins (University of Tennessee, Knoxville)
 * Brandon Wiegel (British Columbia Electronic Library Network)
 * Sue Perdue (University of Virginia)
 * Courtney Matthews (University of Waterloo)
