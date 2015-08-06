@@ -15,10 +15,18 @@ An interest group focused on the use of Islandora as an institutional repository
   * Collaboratively developing new Islandora IR-oriented modules
   * Working with the Islandora Documentation Interest Group to improve any documentation related to Islandora's use as an IR
 * The interest group will communicate via the [islandora-ir Google Group](https://groups.google.com/forum/#!forum/islandora-ir).
-* The interest group will meet once a month virtually (eg. via Google Hangouts)
+* The interest group will edit documents via the [shared Google Drive folder](https://drive.google.com/folderview?id=0BwbriDSNjBiJfldTZWFhelJYcjFRdzZCMzlxX2Y3N0FmTHJkYnRjNzlHd3ZXSlRZRi1iVGM&usp=sharing)
+* The interest group will meet once a month virtually via Skype (TBD)
 * The conveners will produce a report to be submitted to the Islandora Roadmap Committee following the IIRIG's meetings.
 
 ## Membership
-* Bryan Brown (FSU)
-* Emily Toner (BC)
-* Christina Harlow (utk)
+* Bryan Brown (Florida State University)
+* Emily Toner (Boston College)
+* Christina Harlow (University of Tennessee, Knoxville)
+* Brandon Wiegel (British Columbia Electronic Library Network)
+* Sue Perdue (University of Virginia)
+* Courtney Matthews (University of Waterloo)
+* Alex Kent (PALS)
+* Kelsey Williamson (ICI Services)
+* Donald Moses (University of Prince Edward Island)
+* Pat Dunlavey (Common Media, Inc.)
