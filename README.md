@@ -21,3 +21,4 @@ An interest group focused on the use of Islandora as an institutional repository
 ## Membership
 * Bryan Brown (FSU)
 * Emily Toner (BC)
+* Christina Harlow (utk)
