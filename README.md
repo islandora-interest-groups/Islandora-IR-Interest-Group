@@ -19,6 +19,9 @@ An interest group focused on the use of Islandora as an institutional repository
 * The interest group will meet once a month virtually via Skype (TBD)
 * The conveners will produce a report to be submitted to the Islandora Roadmap Committee following the IIRIG's meetings.
 
+## Production Islandora IRs
+* [eScholarship@BC](http://dlib.bc.edu/) (Boston College)
+
 ## Membership
 * Bryan Brown (Florida State University)
 * Devin Soper (Florida State University)
