@@ -34,3 +34,4 @@ An interest group focused on the use of Islandora as an institutional repository
 * Donald Moses (University of Prince Edward Island)
 * Pat Dunlavey (Common Media, Inc.)
 * Brad Spry (University of North Carolina, Charlotte)
+* Dawn Hooper (University of Prince Edward Island)
