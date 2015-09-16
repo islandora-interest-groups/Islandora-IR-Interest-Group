@@ -39,3 +39,4 @@ An interest group focused on the use of Islandora as an institutional repository
 * Brad Spry (University of North Carolina, Charlotte)
 * Dawn Hooper (University of Prince Edward Island)
 * Jennifer Eustis (University of Connecticut Libraries)
+* Mike Nason (University of New Brunswick)
