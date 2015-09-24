@@ -40,3 +40,5 @@ An interest group focused on the use of Islandora as an institutional repository
 * Dawn Hooper (University of Prince Edward Island)
 * Jennifer Eustis (University of Connecticut Libraries)
 * Mike Nason (University of New Brunswick)
+* David Corbly (University of Oklahoma)
+* 
