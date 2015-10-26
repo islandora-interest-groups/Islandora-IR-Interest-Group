@@ -41,4 +41,4 @@ An interest group focused on the use of Islandora as an institutional repository
 * Jennifer Eustis (University of Connecticut Libraries)
 * Mike Nason (University of New Brunswick)
 * David Corbly (University of Oklahoma)
-* 
+* Andrea Kosavic (York University)
