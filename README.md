@@ -1,4 +1,4 @@
-# Islandora Intitutional Repository Interest Group
+# Islandora Institutional Repository Interest Group
 An interest group focused on the use of Islandora as an institutional repository.
 
 ## Conveners
