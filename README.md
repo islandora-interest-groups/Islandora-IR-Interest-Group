@@ -2,7 +2,7 @@
 An interest group focused on the use of Islandora as an institutional repository.
 
 ## Conveners
-* [Bryan Brown](https://github.com/bryjbrown) (Florida State University)
+* Bryan Brown (Florida State University)
 * Emily Toner (Boston College)
 
 ## Terms of Reference
@@ -21,6 +21,7 @@ An interest group focused on the use of Islandora as an institutional repository
 
 ## Production Islandora IRs
 * [eScholarship@BC](http://dlib.bc.edu/) (Boston College)
+* [DigiNole Research Repository](http://diginole.lib.fsu.edu/repository) (Florida State University)
 
 ## Membership
 * Bryan Brown (Florida State University)
