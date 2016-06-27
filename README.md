@@ -16,8 +16,13 @@ An interest group focused on the use of Islandora as an institutional repository
   * Working with the Islandora Documentation Interest Group to improve any documentation related to Islandora's use as an IR
 * The interest group will communicate via the [islandora-ir Google Group](https://groups.google.com/forum/#!forum/islandora-ir).
 * The interest group will edit documents via the [shared Google Drive folder](https://drive.google.com/folderview?id=0BwbriDSNjBiJfldTZWFhelJYcjFRdzZCMzlxX2Y3N0FmTHJkYnRjNzlHd3ZXSlRZRi1iVGM&usp=sharing)
-* The interest group will meet once a month virtually via Skype (TBD)
+* The interest group will meet once a month virtually via Skype (https://join.skype.com/s7ntDOmjhbjT)
 * The conveners will produce a report to be submitted to the Islandora Roadmap Committee following the IIRIG's meetings.
+
+## How to Join
+The IIRIG has a [Google Group](https://groups.google.com/forum/#!forum/islandora-ir) which you may request to join. This serves as a mailing list for discussion of topics related to usage and set up of an Islandora IR, as well as communication about upcoming calls.
+
+There is a Skype call on the last Thursday of each month at 3PM EST which can be joined via this URL: https://join.skype.com/s7ntDOmjhbjT
 
 ## Meeting Roles
 Each meeting of the IIRIG will be chaired by a different interest group member on a rotating basis, allowing all members a chance to bring their unique perspective to the group. Each meeting will also have a note taker, either by volunteer or selected by the chair, who will also be the chair for the following meeting.
