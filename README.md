@@ -53,7 +53,6 @@ The duties of the note taker are as follows:
 * Wilhelmina Randtke (Florida Virtual Campus)
 * Emily Toner (Boston College)
 * Mark Baggett (University of Tennessee, Knoxville)
-* Paul Cummins (University of Tennessee, Knoxville)
 * Don Richards (University of Tennessee, Knoxville)
 * Keila Zayas-Ruiz (University of Tennessee, Knoxville)
 * Brandon Wiegel (British Columbia Electronic Library Network)
