@@ -27,14 +27,14 @@ There is a Skype call on the last Thursday of each month at 3PM EST which can be
 ## Meeting Roles
 Each meeting of the IIRIG will be chaired by a different interest group member on a rotating basis, allowing all members a chance to bring their unique perspective to the group. Each meeting will also have a note taker, either by volunteer or selected by the chair, who will also be the chair for the following meeting.
 
-The duties of a meeting chair are as follows:
+### Duties of a meeting chair
 * Create agenda for upcoming meeting (make a copy a previous meeting from the /meetings folder to use as a template)
 * Post an email to the islandora-ir Google Group/mailing list on the Monday before a meeting to remind members of the upcoming meeting and also to solicit agenda items from other members
 * Start the meeting call and give an overview of the agenda
 * Select a note taker (ask for volunteers, if none speak up try to nominate someone who has not chaired a meeting before)
 * Introduce agenda items (attempt to keep discussions on track and timed proportionately so that all agenda items may be discussed)
 
-The duties of the note taker are as follows:
+### Duties of the note taker
 * Keep track of important topics of discussion, which special attention to the results of questions put to the group or tasks to be done (and who has been assigned said task if applicable)
 * Add notes to the meeting agenda under a section called "Notes" as soon as possible after the meeting
 * Email a link to meeting notes to Melissa Anez for inclusion in bi-weekly Roadmap Committee meeting
