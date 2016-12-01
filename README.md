@@ -55,7 +55,7 @@ Each meeting of the IIRIG will be chaired by a different interest group member o
 * Mark Baggett (University of Tennessee, Knoxville)
 * Don Richards (University of Tennessee, Knoxville)
 * Keila Zayas-Ruiz (University of Tennessee, Knoxville)
-* Brandon Wiegel (British Columbia Electronic Library Network)
+* Brandon Weigel (British Columbia Electronic Library Network)
 * Sue Perdue (University of Virginia)
 * Courtney Matthews (University of Waterloo)
 * Alex Kent (PALS)
