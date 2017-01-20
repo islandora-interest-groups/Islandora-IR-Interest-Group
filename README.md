@@ -3,7 +3,7 @@ An interest group focused on the use of Islandora as an institutional repository
 
 ## Conveners
 * Bryan Brown (Florida State University)
-* Emily Toner (Boston College)
+* Don Richards (University of Tennessee, Knoxville)
 
 ## Terms of Reference
 * The name of this Islandora Interest Group is the **Islandora IR Interest Group (IIRIG)**
@@ -51,7 +51,6 @@ Each meeting of the IIRIG will be chaired by a different interest group member o
 * Lydia Motyka (Florida Virtual Campus)
 * Gail Lewis (Florida Virtual Campus)
 * Wilhelmina Randtke (Florida Virtual Campus)
-* Emily Toner (Boston College)
 * Mark Baggett (University of Tennessee, Knoxville)
 * Don Richards (University of Tennessee, Knoxville)
 * Keila Zayas-Ruiz (University of Tennessee, Knoxville)
