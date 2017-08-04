@@ -22,7 +22,7 @@ An interest group focused on the use of Islandora as an institutional repository
 ## How to Join
 The IIRIG has a [Google Group](https://groups.google.com/forum/#!forum/islandora-ir) which you may request to join. This serves as a mailing list for discussion of topics related to usage and set up of an Islandora IR, as well as communication about upcoming calls.
 
-There is a Skype call on the last Thursday of each month at 3PM EST which can be joined via this URL: https://join.skype.com/s7ntDOmjhbjT
+There is a Skype call on the fourth Monday of each month at 3PM EST which can be joined via this URL: https://join.skype.com/s7ntDOmjhbjT
 
 ## Meeting Roles
 Each meeting of the IIRIG will be chaired by a different interest group member on a rotating basis, allowing all members a chance to bring their unique perspective to the group. Each meeting will also have a note taker, either by volunteer or selected by the chair, who will also be the chair for the following meeting.
