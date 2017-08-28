@@ -48,6 +48,7 @@ Each meeting of the IIRIG will be chaired by a different interest group member o
 * Bryan Brown (Florida State University)
 * Devin Soper (Florida State University)
 * Annie Glerum (Florida State University)
+* Rachel Smart (Florida State University)
 * Lydia Motyka (Florida Virtual Campus)
 * Gail Lewis (Florida Virtual Campus)
 * Wilhelmina Randtke (Florida Virtual Campus)
@@ -69,3 +70,4 @@ Each meeting of the IIRIG will be chaired by a different interest group member o
 * Andrea Kosavic (York University)
 * Lingling Jiang (University of Toronto)
 * Melissa Anez (Islandora Foundation)
+* Carolyn Moritz (Vassar College)
