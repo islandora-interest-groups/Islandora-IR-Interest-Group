@@ -72,3 +72,4 @@ Each meeting of the IIRIG will be chaired by a different interest group member o
 * Lingling Jiang (University of Toronto)
 * Melissa Anez (Islandora Foundation)
 * Carolyn Moritz (Vassar College)
+* David Keiser-Clark (Williams College)
