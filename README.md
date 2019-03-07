@@ -26,7 +26,7 @@ Each meeting of the IIRIG will be chaired by a different interest group member o
 
 ### Duties of a meeting chair
 * Create agenda for upcoming meeting (make a copy a previous meeting from the /meetings folder to use as a template)
-* Post an email to the islandora-ir Google Group/mailing list on the Monday before a meeting to remind members of the upcoming meeting and also to solicit agenda items from other members
+* Post an email to the islandora Google Group/mailing list on the Monday before a meeting to remind members of the upcoming meeting and also to solicit agenda items from other members
 * Start the meeting call and give an overview of the agenda
 * Select a note taker (ask for volunteers, if none speak up try to nominate someone who has not chaired a meeting before)
 * Introduce agenda items (attempt to keep discussions on track and timed proportionately so that all agenda items may be discussed)
