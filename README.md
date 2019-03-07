@@ -14,14 +14,11 @@ An interest group focused on the use of Islandora as an institutional repository
   * Collaboratively defining functional requirements for new Islandora IR-oriented modules
   * Collaboratively developing new Islandora IR-oriented modules
   * Working with the Islandora Documentation Interest Group to improve any documentation related to Islandora's use as an IR
-* The interest group will communicate via the [islandora-ir Google Group](https://groups.google.com/forum/#!forum/islandora-ir).
 * The interest group will edit documents via the [shared Google Drive folder](https://drive.google.com/folderview?id=0BwbriDSNjBiJfldTZWFhelJYcjFRdzZCMzlxX2Y3N0FmTHJkYnRjNzlHd3ZXSlRZRi1iVGM&usp=sharing)
 * The interest group will meet once a month virtually via Zoom (https://zoom.us/j/526356143)
 * The conveners will produce a report to be submitted to the Islandora Roadmap Committee following the IIRIG's meetings.
 
 ## How to Join
-The IIRIG has a [Google Group](https://groups.google.com/forum/#!forum/islandora-ir) which you may request to join. This serves as a mailing list for discussion of topics related to usage and set up of an Islandora IR, as well as communication about upcoming calls.
-
 There is a Zoom call on the fourth Thursday of each month at 3PM EST which can be joined via this URL: https://zoom.us/j/526356143
 
 ## Meeting Roles
