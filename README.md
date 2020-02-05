@@ -19,7 +19,7 @@ An interest group focused on the use of Islandora as an institutional repository
 * The conveners will produce a report to be submitted to the Islandora Roadmap Committee following the IIRIG's meetings.
 
 ## How to Join
-There is a Zoom call on the fourth Thursday of each month at 3PM EST which can be joined via this URL: https://zoom.us/j/526356143
+There is a Zoom call on the last Thursday of each month at 2-3PM EST which can be joined via this URL: https://zoom.us/j/526356143
 
 ## Meeting Roles
 Each meeting of the IIRIG will be chaired by a different interest group member on a rotating basis, allowing all members a chance to bring their unique perspective to the group. Each meeting will also have a note taker, either by volunteer or selected by the chair, who will also be the chair for the following meeting.
