@@ -41,6 +41,7 @@ Each meeting of the IIRIG will be chaired by a different interest group member o
 * [eScholarship@BC](http://dlib.bc.edu/) (Boston College)
 * [DigiNole Research Repository](http://diginole.lib.fsu.edu/repository) (Florida State University)
 * [TRACE: Tennessee Research and Creative Exchange](https://trace.utk.edu/) (University of Tennessee-Knoxville)
+* [Niner Commons](https://ninercommons.uncc.edu/) (University of North Carolina, Charlotte)
 
 ## Membership
 * Bryan Brown (Florida State University)
