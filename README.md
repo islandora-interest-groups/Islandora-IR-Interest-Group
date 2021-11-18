@@ -38,10 +38,10 @@ Each meeting of the IIRIG will be chaired by a different interest group member o
 * Proceed with chair duties (listed above) for upcoming meeting
 
 ## Production Islandora IRs
-* [eScholarship@BC](http://dlib.bc.edu/) (Boston College)
-* [DigiNole Research Repository](http://diginole.lib.fsu.edu/repository) (Florida State University)
-* [TRACE: Tennessee Research and Creative Exchange](https://trace.utk.edu/) (University of Tennessee-Knoxville)
-* [Niner Commons](https://ninercommons.uncc.edu/) (University of North Carolina, Charlotte)
+* [Open Access Kent State (OAKS)](https://oaks.kent.edu) (Kent State University) v8
+* [eScholarship@BC](http://dlib.bc.edu/) (Boston College) v7
+* [DigiNole Research Repository](http://diginole.lib.fsu.edu/repository) (Florida State University) v8
+* [Niner Commons](https://ninercommons.uncc.edu/) (University of North Carolina, Charlotte) v7
 
 ## Membership
 * Bryan Brown (Florida State University)
