@@ -15,11 +15,11 @@ An interest group focused on the use of Islandora as an institutional repository
   * Collaboratively developing new Islandora IR-oriented modules
   * Working with the Islandora Documentation Interest Group to improve any documentation related to Islandora's use as an IR
 * The interest group will edit documents via the [shared Google Drive folder](https://drive.google.com/folderview?id=0BwbriDSNjBiJfldTZWFhelJYcjFRdzZCMzlxX2Y3N0FmTHJkYnRjNzlHd3ZXSlRZRi1iVGM&usp=sharing)
-* The interest group will meet once a month virtually via Zoom (https://zoom.us/j/98622189465)
+* The interest group will meet once a month virtually via Zoom (https://jh.zoom.us/j/2199338265 )
 * The conveners will produce a report to be submitted to the Islandora Roadmap Committee following the IIRIG's meetings.
 
 ## How to Join
-There is a Zoom call on the third Thursday of each month at 2-3PM EST which can be joined via this URL: https://zoom.us/j/98622189465. The agenda for the next meeting can always be found at http://bit.ly/irig-next-meeting-agenda. All previous note can be found here.
+There is a Zoom call on the third Thursday of each month at 2-3PM EST which can be joined via this URL: https://jh.zoom.us/j/2199338265 . The agenda for the next meeting can always be found at http://bit.ly/irig-next-meeting-agenda. All previous note can be found here.
 
 ## Meeting Roles
 Each meeting of the IIRIG will be chaired by a different interest group member on a rotating basis, allowing all members a chance to bring their unique perspective to the group. Each meeting will also have a note taker, either by volunteer or selected by the chair, who will also be the chair for the following meeting.
