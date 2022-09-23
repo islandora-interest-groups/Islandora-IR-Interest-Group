@@ -2,8 +2,7 @@
 An interest group focused on the use of Islandora as an institutional repository.
 
 ## Conveners
-* Don Richards (University of Tennessee, Knoxville)
-* Bryan Brown (Florida State University) ** on hiatus
+* Don Richards (Johns Hopkins University)
 
 ## Terms of Reference
 * The name of this Islandora Interest Group is the **Islandora IR Interest Group (IIRIG)**
