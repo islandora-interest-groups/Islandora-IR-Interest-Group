@@ -43,15 +43,13 @@ Each meeting of the IIRIG will be chaired by a different interest group member o
 * [Niner Commons](https://ninercommons.uncc.edu/) (University of North Carolina, Charlotte) v7
 
 ## Membership
-* Bryan Brown (Florida State University)
+* Don Richards (Johns Hopkins University)
 * Devin Soper (Florida State University)
 * Annie Glerum (Florida State University)
 * Rachel Smart (Florida State University)
 * Lydia Motyka (Florida Virtual Campus)
 * Gail Lewis (Florida Virtual Campus)
 * Wilhelmina Randtke (Florida Virtual Campus)
-* Mark Baggett (University of Tennessee, Knoxville)
-* Don Richards (University of Tennessee, Knoxville)
 * Keila Zayas-Ruiz (University of Tennessee, Knoxville)
 * Brandon Weigel (British Columbia Electronic Library Network)
 * Sue Perdue (University of Virginia)
